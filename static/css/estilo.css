@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Dominican';
+    src: url(../fonts/DOMINICA.TTF) format('TrueType');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1{
+    font-family: 'Dominican', Helvetica, sans-serif;
+}
